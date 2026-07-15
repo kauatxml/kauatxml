@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi, I'm Kauã Melo!</h1>
+<h1 data-importer="text" align="center">Greetings! I'm Kauã Melo</h1>
 
 ###
 
